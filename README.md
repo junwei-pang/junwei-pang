@@ -1,6 +1,6 @@
 - 👋 Kia ora/Hi there! I'm Junwei Pang
 - 🚦 Picture me as the guide at the intersection of **Combinatorial Optimisation** and **Explainable Genetic Programming**.
-- 📫 How to research me: pangjw23@gmail.com 
+- 📫 How to research me: junwei-pang@outlook.com 
 <!--
 **junwei-pang/junwei-pang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
